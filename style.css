@@ -5,12 +5,20 @@ body {
 	background: #2c3e50
 }
 
-.text {
+.text1 {
 	color: white;
     font-size: 100px;
     font-family: "Brush Script MT", cursive;
     position: absolute;
-    top: 40px;
+    top: 0px;
+}
+
+.text2 {
+	color: white;
+    font-size: 100px;
+    font-family: "Brush Script MT", cursive;
+    position: absolute;
+    bottom: 50px;
 }
 
 .box {
